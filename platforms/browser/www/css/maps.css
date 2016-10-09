@@ -22,7 +22,8 @@ body {
   text-align: center;
 }
 
-#coords{
-  padding: 20px;
-  text-align: center;
+#map{
+  margin: 20px 0;
+  border: 1px solid;
+  height: 500px;
 }
