@@ -21,3 +21,8 @@ body {
   font-size:small;
   text-align: center;
 }
+
+#coords{
+  padding: 20px;
+  text-align: center;
+}
